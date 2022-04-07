@@ -1,0 +1,7 @@
+aws_region = "ap-northeast-1"
+app_name   = "acme-ssl-nginx"
+pub_ssh_key_path="~/.ssh/test.pub"
+ec2_ami_id="ami-0ab0bbbd329f565e6"
+root_dns_name="rajeshsundaram.quick"
+r53_zone_id="Z084855027AG87ANI2CS2"
+dns_record_name="sslcert"
